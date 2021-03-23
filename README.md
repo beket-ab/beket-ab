@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @beket-ab
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning django and js frameworks ()
+- 💞️ I’m looking to collaborate on ...webdev in general
+- 📫 amirkhanov.beket@gmail.com
